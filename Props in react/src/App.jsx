@@ -14,7 +14,7 @@ function App() {
   ];
   return (
     <>
-      <h1>Healthy Food</h1>  
+      <h1 className="kg-heading">Healthy Food</h1>  
       <ErrorMsg items = {foodItems}></ErrorMsg>
       <FoodItem items = {foodItems}></FoodItem>
     </>
