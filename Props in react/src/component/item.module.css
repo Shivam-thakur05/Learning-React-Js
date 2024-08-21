@@ -1,10 +1,7 @@
-.kg-items{
-    background-color: aqua;
-  }
   .kg-span{
     font-weight: 500;
     color: black;
   }
-  .kg-heading{
-    background-color: beige;
-  }
+.Button{
+  float: right;
+}
