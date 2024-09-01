@@ -1,6 +1,10 @@
 .calculator {
-  background-color: rgb(211, 248, 248);
-  border: 1px solid black;
-  width: 210px;
+  background-color: rgb(3, 3, 66);
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 350px;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 5%;
+  box-shadow: 34px solid black; 
 }
-

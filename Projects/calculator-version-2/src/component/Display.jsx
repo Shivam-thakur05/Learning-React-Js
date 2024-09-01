@@ -1,6 +1,8 @@
-import style from './Display.module.css';
+import style from "./Display.module.css";
 
-const Display = () => {
-  return <input className={style.Display} type="text" />;
+const Display = ({ DisplayVal }) => {
+  return (
+    <input className={style.Display} type="text" value={DisplayVal} readOnly />
+  );
 };
 export default Display;
